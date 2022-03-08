@@ -4,5 +4,4 @@ rosii
 oua
 migdale
 banane
-castravete
-ciocolata
+zarzavaturi
